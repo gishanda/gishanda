@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @gishanda
-- 👀 I’m interested in developing, I love swift . 
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on RnD projects.
+
 - 📫 How to reach me => try searching me by my name.
 
-<!---
-gishanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm a full-stack developer specializing in React, Node.js, and Python.
+🔭 Currently building a project to automate budgeting with AI.
+- 📫 How to reach me => try searching me by my name.
+
+### 🧰 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+...
+
+### 📈 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex&show_icons=true)
